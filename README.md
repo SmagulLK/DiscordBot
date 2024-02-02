@@ -28,13 +28,13 @@ go run cmd/main.go
 
 ```
 ### Usage
-##Commands
-🎲!play : To start a game "Lower or higher"
-⏰!reminder x: To set a reminder for x seconds
-🆘!help:It shows basic commands that you can use
-🈷️!translate | "sentence":translate a sentence to english
-🖼️!weather | city :shows the temperature in this location
-###MakeFile
+## Commands
+# 🎲!play : To start a game "Lower or higher"
+# ⏰!reminder x: To set a reminder for x seconds
+# 🆘!help:It shows basic commands that you can use
+# 🈷️!translate | "sentence":translate a sentence to english
+# 🖼️!weather | city :shows the temperature in this location
+### MakeFile
  ```bash
 make build
 make run
